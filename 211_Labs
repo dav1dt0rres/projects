@@ -1,0 +1,29 @@
+#include <stdio.h>
+
+
+int brook(int x,int y){
+	int c;
+	c=x+y;
+	return c;
+	
+}
+
+int main(){
+	
+	int vector[]={3,15,2,66,5};
+	
+	const int NUMBERS_SIZE = 5;
+	int vector2[]={55,1,7,88,9};
+	
+	int *pi;
+	int *o;
+	for (int i=0; i< NUMBERS_SIZE;++i){
+	pi=&vector[i];
+	
+	o=&vector2[i];
+
+	int nu;
+	nu=brook(*pi,*o);
+	printf("this is  %d\n",nu);	
+	}
+}
