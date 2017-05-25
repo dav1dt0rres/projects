@@ -1,0 +1,866 @@
+wvcs20020001129425,	ZYMOGENETICS INC,	S-1,	2002,	2002,	TACI-Ig,	Systemic lupus ,			5,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	S-1,	2002,	2002,	TACI-Ig,	Systemic lupus ,			5,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	S-1,	2002,	2002,	IL-21,	Non-Hodgkin's lymphoma ,			22,	27,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	S-1,	2002,	2002,	Zsig37,	Cardiovascular Disease,			21,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	S-1,	2002,	2002,	rh Factor XIII,	Major cardiac surgery,			25,	9,	30,		
+wvcs20020001129425,	ZYMOGENETICS INC,	S-1,	2002,	2002,	rh Thrombin,	Critical care hemostat,			25,	9,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	424,	2002,	2002,	TACI-Ig,	Systemic lupus ,			5,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	424,	2002,	2002,	TACI-Ig,	erythematosus,			5,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	424,	2002,	2002,	IL-21,	Non-Hodgkin's lymphoma ,			22,	27,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	424,	2002,	2002,	Zsig37,	Cardiovascular Disease,			21,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	424,	2002,	2002,	rh Factor XIII,	Major cardiac surgery,			25,	9,	30,		
+wvcs20020001129425,	ZYMOGENETICS INC,	424,	2002,	2002,	rh Thrombin,	Critical care hemostat,			25,	9,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2002,	TACI-Ig,	Systemic lupus ,			5,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2002,	TACI-Ig,	erythematosus,			5,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2002,	IL-21,	Non-Hodgkin's lymphoma ,			22,	27,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2002,	Zsig37,	Cardiovascular Disease,			21,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2002,	rh Factor XIII,	Major cardiac surgery,			25,	9,	30,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2002,	rh Thrombin,	Critical care hemostat,			25,	9,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2003,	TACI-Ig,	Systemic lupus ,			5,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2003,	TACI-Ig,	erythematosus,			5,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2003,	IL-21,	Cancer,			22,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2003,	rh Factor XIII,	Major cardiac surgery,			25,	9,	30,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2003,	rh Thrombin,	Critical care hemostat,			25,	9,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2004,	TACI-Ig,	Systemic lupus /erythematosus,			5,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2004,	TACI-Ig,	Rheumatoid arthritis,			5,	20,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2004,	TACI-Ig,	Non-Hodgkin's lymphoma ,			5,	22,	27,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2004,	TACI-Ig,	Multiple myeloma,			5,	22,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2004,	IL-21,	Metastatic melanoma,			22,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2004,	IL-21,	Combination with anti-cancer monoclonal antibodies,			22,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2004,	rh Thrombin,	Critical care hemostat,			25,	9,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2004,	rh Thrombin,	Line extensions,			25,	9,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2004,	IL-29,	Hepatitis C virus infection,			23,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2004,	IL-31,	Inflammatory Diseases,			5,	29,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2005,	TACI-Ig,	Systemic lupus /erythematosus,			5,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2005,	TACI-Ig,	Rheumatoid arthritis,			5,	20,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2005,	TACI-Ig,	Non-Hodgkin's lymphoma ,			5,	22,	27,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2005,	TACI-Ig,	Multiple myeloma,			5,	22,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2005,	TACI-Ig,	Multiple sclerosis,			5,	22,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2005,	TACI-Ig,	Chronic lymphocytic leukemia,			5,	22,	27,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2005,	IL-21,	Metastatic melanoma,			22,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2005,	IL-21,	Combination with anti-cancer monoclonal antibodies,			22,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2005,	IL-29,	Hepatitis C virus infection,			23,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2005,	IL-31,	Atopic dermatitis,			5,	8,	29,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2005,	rh Thrombin,	Critical care hemostat,			25,	9,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2005,	rh Thrombin,	Line extensions,			25,	9,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2006,	Atacicept,	Systemic lupus /erythematosus,			5,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2006,	Atacicept,	Rheumatoid arthritis,			5,	20,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2006,	Atacicept,	Non-Hodgkin's lymphoma ,			5,	22,	27,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2006,	Atacicept,	Multiple myeloma,			5,	22,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2006,	Atacicept,	Multiple sclerosis,			5,	22,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2006,	Atacicept,	Chronic lymphocytic leukemia,			5,	22,	27,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2006,	IL-21,	Metastatic melanoma,			22,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2006,	IL-21,	Metastatic renal cell carcinoma,			22,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2006,	IL-21,	Non-Hodgkin’s lymphoma,			22,	27,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2006,	PEG-IFN-l,	Hepatitis C virus infection,			23,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2006,	PEG-IFN-l,	Cancer,			22,	23,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2006,	PEG-IFN-l,	Multiple sclerosis,			23,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2006,	IL-31,	Atopic dermatitis,			5,	8,	29,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2006,	rh Thrombin,	Critical care hemostat,			25,	9,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2006,	rh Thrombin,	Spray application,			25,	9,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2006,	IL-17RC,	Inflammatory diseases,			5,	20,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2007,	Atacicept,	Systemic lupus /erythematosus,			5,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2007,	Atacicept,	Rheumatoid arthritis,			5,	20,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2007,	Atacicept,	Non-Hodgkin's lymphoma ,			5,	22,	27,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2007,	Atacicept,	Multiple myeloma,			5,	22,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2007,	Atacicept,	Multiple sclerosis,			5,	22,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2007,	Atacicept,	Chronic lymphocytic leukemia,			5,	22,	27,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2007,	IL-21,	Metastatic melanoma,			22,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2007,	IL-21,	Metastatic renal cell carcinoma,			22,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2007,	IL-21,	Non-Hodgkin’s lymphoma,			22,	27,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2007,	IL-21,	Colorectal cancer,			22,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2007,	IL-21,	Ovarian cancer,			22,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2007,	RECOTHROM,	Critical care hemostat,			25,	9,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2007,	RECOTHROM,	Critical care hemostat,			25,	9,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2007,	PEG-IFN-l,	Hepatitis C virus infection,			23,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2007,	PEG-IFN-l,	Multiple sclerosis,			23,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2007,	IL-17RC,	Inflammatory diseases,			5,	20,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2007,	IL-31 MAB,	Atopic dermatitis,			5,	8,	29,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2008,	IL-21,	Metastatic melanoma,			22,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2008,	IL-21,	Metastatic renal cell carcinoma,			22,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2008,	RECOTHROM,	Critical care hemostat,			25,	9,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2008,	PEG-IFN-l,	Hepatitis C virus infection,			23,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2008,	PEG-IFN-l,	Multiple sclerosis,			23,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2008,	PEG-IFN-l,	Hepatitis B virus infection,			23,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2008,	PEG-IFN-l,	Multiple sclerosis,			23,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2008,	IL-21 mAb,	Inflammatory Diseases,			5,	20,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2008,	IL-31 MAB,	Atopic dermatitis,			5,	8,	29,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2009,	IL-21,	Metastatic melanoma,			22,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2009,	RECOTHROM,	Critical care hemostat,			25,	9,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2009,	PEG-IFN-l,	Hepatitis C virus infection,			23,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2009,	PEG-IFN-l,	Hepatitis B virus infection,			23,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2009,	PEG-IFN-l,	Hepatitis C virus infection,			23,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2009,	PEG-IFN-l,	Hepatitis B virus infection,			23,	,	,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2009,	IL-31 MAB,	Atopic dermatitis,			5,	8,	29,		
+wvcs20020001129425,	ZYMOGENETICS INC,	10-K,	2002,	2009,	IL-31 MAB,	Neuropathic Pain,			5,	62,	29,	42	
+wvcs20030001115143,	ACUSPHERE INC,	S-1,	2003,	2003,	AI-700,	myocardial perfusion,			21,	20,	60,		
+wvcs20030001115143,	ACUSPHERE INC,	S-1,	2003,	2003,	AI-850,	Cancer,			22,	,	,		
+wvcs20030001115143,	ACUSPHERE INC,	S-1,	2003,	2003,	AI-128,	Asthma,			5,	29,	,		
+wvcs20030001115143,	ACUSPHERE INC,	424,	2003,	2003,	AI-700,	myocardial perfusion,			21,	20,	60,		
+wvcs20030001115143,	ACUSPHERE INC,	424,	2003,	2003,	AI-850,	Cancer,			22,	,	,		
+wvcs20030001115143,	ACUSPHERE INC,	424,	2003,	2003,	AI-128,	Asthma,			5,	29,	,		
+wvcs20030001115143,	ACUSPHERE INC,	10-K,	2003,	2003,	AI-700,	myocardial perfusion,			21,	20,	60,		
+wvcs20030001115143,	ACUSPHERE INC,	10-K,	2003,	2003,	AI-850,	Cancer,			22,	,	,		
+wvcs20030001115143,	ACUSPHERE INC,	10-K,	2003,	2003,	AI-128,	Asthma,			5,	29,	,		
+wvcs20030001115143,	ACUSPHERE INC,	10-K,	2003,	2004,	AI-700,	myocardial perfusion,			21,	20,	60,		
+wvcs20030001115143,	ACUSPHERE INC,	10-K,	2003,	2004,	AI-850,	Cancer,			22,	,	,		
+wvcs20030001115143,	ACUSPHERE INC,	10-K,	2003,	2004,	AI-128,	Asthma,			5,	29,	,		
+wvcs20030001115143,	ACUSPHERE INC,	10-K,	2003,	2005,	AI-700,	myocardial perfusion,			21,	20,	60,		
+wvcs20030001115143,	ACUSPHERE INC,	10-K,	2003,	2005,	AI-850,	Cancer,			22,	,	,		
+wvcs20030001115143,	ACUSPHERE INC,	10-K,	2003,	2005,	AI-128,	Asthma,			5,	29,	,		
+wvcs20030001115143,	ACUSPHERE INC,	10-K,	2003,	2006,	Imagify,	myocardial perfusion,			21,	20,	60,		
+wvcs20030001115143,	ACUSPHERE INC,	10-K,	2003,	2006,	Hydrophobic Drug Delivery System™, HDDS.  ,	Cancer,			22,	,	,		
+wvcs20030001115143,	ACUSPHERE INC,	10-K,	2003,	2006,	       Pulmonary Drug Delivery System™, PDDS. ,	Asthma,			5,	29,	,		
+wvcs20030001115143,	ACUSPHERE INC,	10-K,	2003,	2007,	Imagify,	myocardial perfusion,			21,	20,	60,		
+wvcs20030001115143,	ACUSPHERE INC,	10-K,	2003,	2007,	Hydrophobic Drug Delivery System™, HDDS.  ,	Cancer,			22,	,	,		
+wvcs20030001115143,	ACUSPHERE INC,	10-K,	2003,	2007,	       Pulmonary Drug Delivery System™, PDDS. ,	Asthma,			5,	29,	,		
+wvcu19970001016518,	APOLLON INC,	S-1,	1997,	1997,	GENEVAX vaccine product,	 human immunodeficiency Virus,			23,	,	,		
+wvcu19970001016518,	APOLLON INC,	S-1,	1997,	1997,	GENEVAX vaccine product,	 hepatitis B virus ("HBV"),			23,	,	,		
+wvcu19970001016518,	APOLLON INC,	S-1,	1997,	1997,	GENEVAX vaccine product,	 herpes simplex virus ("HSV") ,			23,	,	,		
+wvcu19970001016518,	APOLLON INC,	S-1,	1997,	1997,	GENEVAX vaccine product,	"T-cell lymphoma
+(""CTCL""),"			5,	27,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	S-1,	1997,	1997,	FGN-1(TM),	Adenomatous Polyposis Coli,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	S-1,	1997,	1997,	FGN-1(TM),	Sporadic Adenomatous Colonic Polyps,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	S-1,	1997,	1997,	FGN-1(TM),	Prostate Cancer,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	S-1,	1997,	1997,	FGN-1(TM),	Breast Cancer,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	S-1,	1997,	1997,	FGN-1(TM),	Lung Cancer,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	S-1,	1997,	1997,	FGN-1(TM),	Barrett's Esophagus ,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	1999,	PREVATAC(TM),	Adenomatous Polyposis Coli,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	1999,	PREVATAC(TM),	Sporadic Adenomatous Colonic Polyps,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	1999,	PREVATAC(TM),	Barrett's Esophagus,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	1999,	PREVATAC(TM),	Bronchial Dysplasia..,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	1999,	PREVATAC(TM),	Cervical Dysplasia,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	1999,	PREVATAC(TM),	Prostate Cancer Recurrence,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	1999,	PREVATAC(TM),	Lung Cancer,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	1999,	PREVATAC(TM),	Breast Cancer Recurrence,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	1999,	CP 461,	Cancer Indications,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	2000,	Aptosyn(TM),	Adenomatous Polyposis Coli,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	2000,	Aptosyn(TM),	Sporadic Adenomatous Colonic Polyps,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	2000,	Aptosyn(TM),	Barrett's Esophagus,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	2000,	Aptosyn(TM),	Bronchial Dysplasia..,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	2000,	Aptosyn(TM),	Cervical Dysplasia,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	2000,	Aptosyn(TM),	Prostate Cancer Recurrence,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	2000,	Aptosyn(TM),	Lung Cancer,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	2000,	Aptosyn(TM),	Lung Cancer,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	2000,	Aptosyn(TM),	Breast Cancer Recurrence,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	2000,	CP 461,	Cancer Indications,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	2001,	Aptosyn(TM),	Sporadic Adenomatous Colonic Polyps,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	2001,	Aptosyn(TM),	Prostate Cancer Recurrence,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	2001,	Aptosyn(TM),	Lung Cancer,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	2001,	Aptosyn(TM),	Lung Cancer,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	2001,	Aptosyn(TM),	Breast Cancer Recurrence,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	2001,	CP 461,	CHRONIC LYMPHOCYTIC LEUKEMIA (CLL),			22,	27,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	2001,	CP 461,	 HORMONE-REFRACTORY PROSTATE CANCER,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	2001,	CP 461,	RENAL CELL (KIDNEY) CARCINOMA,			22,	28,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	2002,	CP 461,	Crohn's Disease,			26,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	2002,	Aptosyn(TM),	Prostate Cancer Recurrence,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	2002,	Aptosyn(TM),	Lung Cancer,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	2002,	Aptosyn(TM),	Lung Cancer,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	2002,	Aptosyn(TM),	Breast Cancer Recurrence,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	2002,	CP 461,	CHRONIC LYMPHOCYTIC LEUKEMIA (CLL),			22,	27,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	2002,	CP 461,	 HORMONE-REFRACTORY PROSTATE CANCER,			22,	,	,		
+wvcu19970000925732,	CELL PATHWAYS INC,	10-K,	1997,	2002,	CP 461,	RENAL CELL (KIDNEY) CARCINOMA,			22,	28,	,		
+wvcu19970000944753,	SCRIPTGEN PHARMACEUTICALS INC,	S-1,	1997,	1997,	ST61769,	ANTIFUNGALS,			23,	,	,		
+wvcu19970000944753,	SCRIPTGEN PHARMACEUTICALS INC,	S-1,	1997,	1997,	ST61219,	ANTIFUNGALS,			23,	,	,		
+wvcu19970000944753,	SCRIPTGEN PHARMACEUTICALS INC,	S-1,	1997,	1997,	ST61219,	ANTIFUNGALS,			23,	,	,		
+wvcu19970000944753,	SCRIPTGEN PHARMACEUTICALS INC,	S-1,	1997,	1997,	 ST41590,	"bacterial Infections
+infections,"			23,	,	,		
+wvcu19970000944753,	SCRIPTGEN PHARMACEUTICALS INC,	S-1,	1997,	1997,	ST135647,	 Hepatitis B virus,			23,	,	,		
+wvcs20000000934473,	GENVEC INC,	S-1,	1998,	1998,	BIOBYPASS angiogen,	CAD,			21,	,	,		
+wvcs20000000934473,	GENVEC INC,	S-1,	1998,	1998,	BIOBYPASS angiogen,	PAD,			21,	,	,		
+wvcs20000000934473,	GENVEC INC,	S-1,	1998,	1998,	Ad.TNF(alpha),	Cancer,			22,	,	,		
+wvcs20000000934473,	GENVEC INC,	S-1,	1998,	1998,	 Ad.iNOS,	CAD,			21,	,	,		
+wvcs20000000934473,	GENVEC INC,	S-1,	1998,	1998,	 Ad.CD.,	Cancer,			22,	,	,		
+wvcs20000000934473,	GENVEC INC,	S-1,	1998,	1998,	Immunotherapy Program,	Cancer,			22,	,	,		
+wvcs20000000934473,	GENVEC INC,	S-1,	1998,	1998,	Neurology Program,	Neurology,			45,	,	,		
+wvcu19980001001557,	INTRACEL CORP,	S-1,	1999,	1999,	 OncoVAX(CL),	Colon Cancer,			22,	,	,		
+wvcu19980001001557,	INTRACEL CORP,	S-1,	1999,	1999,	HumaSPECT,	Colon Cancer,			22,	,	,		
+wvcu19980001001557,	INTRACEL CORP,	S-1,	1999,	1999,	KLH ,	Refractory bladder cancer,			22,	3,	,		
+wvcu19980001001557,	INTRACEL CORP,	S-1,	1999,	1999,	ASI(BCL,	B-cell lymphoma,			22,	27,	,		
+wvcu19980001001557,	INTRACEL CORP,	S-1,	1999,	1999,	HumaRAD(16.88),	Head and neck cancer   ,			22,	2,	,		
+wvcu19980001001557,	INTRACEL CORP,	S-1,	1999,	1999,	HumaRAD(88BV59)      ,	Ovarian cancer,			22,	,	,		
+wvcu19980001001557,	INTRACEL CORP,	S-1,	1999,	1999,	HumaSPECT,	Ovarian cancer ,			22,	,	,		
+wvcu19980001001557,	INTRACEL CORP,	S-1,	1999,	1999,	MONOGENE(INT) ,	HIV  ,			22,	,	,		
+wvcu19980001001557,	INTRACEL CORP,	S-1,	1999,	1999,	Confirmatory diagnostic Products,	Viruses and bacteria,			23,	,	,		
+wvcu19980001001557,	INTRACEL CORP,	S-1,	1999,	1999,	 ZYMMUNE CD4/CD8,	HIV  ,			23,	,	,		
+wvcu19980001001557,	INTRACEL CORP,	S-1,	1999,	1999,	Accu-D(x),	Bladder Cancer,			22,	3,	,		
+wvcu19980001001557,	INTRACEL CORP,	S-1,	1999,	1999,	 Apo-Tek Lp(a),	cardiovascular disease,			21,	,	,		
+wvcu19980001001557,	INTRACEL CORP,	424B,	1999,	1999,	 OncoVAX(CL),	Colon Cancer,			22,	,	,		
+wvcu19980001001557,	INTRACEL CORP,	424B,	1999,	1999,	KLH ,	Refractory bladder cancer,			22,	3,	,		
+wvcu19980001001557,	INTRACEL CORP,	424B,	1999,	1999,	ASI(BCL,	B-cell lymphoma,			22,	27,	,		
+wvcu19980001001557,	INTRACEL CORP,	424B,	1999,	1999,	HumaRAD(16.88),	Head and neck cancer   ,			22,	2,	,		
+wvcu19980001001557,	INTRACEL CORP,	424B,	1999,	1999,	HumaRAD(88BV59)      ,	Ovarian cancer,			22,	,	,		
+wvcu19980001001557,	INTRACEL CORP,	424B,	1999,	1999,	MONOGENE(INT) ,	HIV  ,			22,	,	,		
+wvcu19980001001557,	INTRACEL CORP,	424B,	1999,	1999,	Confirmatory diagnostic Products,	Viruses and bacteria,			23,	,	,		
+wvcu19980001001557,	INTRACEL CORP,	424B,	1999,	1999,	 ZYMMUNE CD4/CD8,	HIV  ,			23,	,	,		
+wvcu19980001001557,	INTRACEL CORP,	424B,	1999,	1999,	Accu-D(x),	Bladder Cancer,			22,	3,	,		
+wvcu19980001001557,	INTRACEL CORP,	424B,	1999,	1999,	 Apo-Tek Lp(a),	cardiovascular disease,			21,	,	,		
+wvcu19980001001557,	INTRACEL CORP,	424B,	1999,	1999,	HumaSPECT ,	Colon Cancer,			22,	,	,		
+wvcu19980001001557,	INTRACEL CORP,	424B,	1999,	1999,	HumaSPECT ,	Ovarian Cancer,			22,	,	,		
+wvcu19980000949175,	SENSUS DRUG DEVELOPMENT CORP,	S-1,	1998,	1998,	Trovert (B2036PEG),	acromegaly,			24,	,	,		
+wvcu19980000949175,	SENSUS DRUG DEVELOPMENT CORP,	S-1,	1998,	1998,	Trovert (B2036PEG),	acromegaly,			24,	,	,		
+wvcu19980000949175,	SENSUS DRUG DEVELOPMENT CORP,	S-1,	1998,	1998,	Trovert (B2036PEG),	DIABETIC RETINOPATHY,			24,	,	,		
+wvcu19980000949175,	SENSUS DRUG DEVELOPMENT CORP,	S-1,	1998,	1998,	Trovert (B2036PEG),	DIABETIC RETINOPATHY,			24,	,	,		
+wvcu19980000949175,	SENSUS DRUG DEVELOPMENT CORP,	S-1,	1998,	1998,	Trovert (B2036PEG),	DIABETIC NEPHROPATHY,			24,	,	,		
+wvcu19980000949175,	SENSUS DRUG DEVELOPMENT CORP,	S-1,	1998,	1998,	Trovert (B2036PEG),	DIABETIC NEPHROPATHY,			24,	,	,		
+wvcu20000001123959,	CONTROL DELIVERY SYSTEMS	S-1,	2000,	2000,	Vitrasert,	CMV Retinitis,			1,	,	,		
+wvcu20000001123959,	CONTROL DELIVERY SYSTEMS	S-1,	2000,	2000,	Aeon Platform Technology,	  Diabetic Macular Edema,			1,	,	,		
+wvcu20000001123959,	CONTROL DELIVERY SYSTEMS	S-1,	2000,	2000,	Aeon Platform Technology,	 Uveitis,			1,	,	,		
+wvcu20000001123959,	CONTROL DELIVERY SYSTEMS	S-1,	2000,	2000,	Aeon Platform Technology,	 Age-related Macular Degeneration,			1,	,	,		
+wvcu20000001123959,	CONTROL DELIVERY SYSTEMS	S-1,	2000,	2000,	Aeon Platform Technology,	Osteoarthritis.,			20,	,	,		
+wvcu20000001123959,	CONTROL DELIVERY SYSTEMS	S-1,	2000,	2000,	Ceredur,	Brain Tumors,			22,	40,	,		
+wvcu20000001123959,	CONTROL DELIVERY SYSTEMS	S-1,	2000,	2000,	Codrug Platform Technology,	 post-surgical pain,			62,	,	,		
+wvcu20000001123959,	CONTROL DELIVERY SYSTEMS	S-1,	2000,	2000,	Codrug Platform Technology,	Prostate Cancer,			22,	,	,		
+wvcu20000001130166,	Cyclacel Pharmaceuticals, Inc.,	S-1,	2000,	2000,	"Xcellerate Therapy
+Therapy ,"	Kidney Cancer,			22,	,	,		
+wvcu20000001130166,	Cyclacel Pharmaceuticals, Inc.,	S-1,	2000,	2000,	"Xcellerate Therapy
+Therapy ,"	Non-Hodgkin's Lymphoma,			22,	27,	,		
+wvcu20000001130166,	Cyclacel Pharmaceuticals, Inc.,	S-1,	2000,	2000,	"Xcellerate Therapy
+Therapy ,"	Ovarian.,			22,	,	,		
+wvcu20000001130166,	Cyclacel Pharmaceuticals, Inc.,	S-1,	2000,	2000,	"Xcellerate Therapy
+Therapy ,"	Melanoma,			22,	,	,		
+wvcu20000001130166,	Cyclacel Pharmaceuticals, Inc.,	S-1,	2000,	2000,	"Xcellerate Therapy
+Therapy ,"	Multiple Myeloma,			22,	,	,		
+wvcu20000001130166,	Cyclacel Pharmaceuticals, Inc.,	S-1,	2000,	2000,	"Xcellerate Therapy
+Therapy ,"	Colorectal,			22,	,	,		
+wvcu20000001130166,	Cyclacel Pharmaceuticals, Inc.,	S-1,	2000,	2000,	"Xcellerate Therapy
+Therapy ,"	Lung,			22,	,	,		
+wvcu20000001130166,	Cyclacel Pharmaceuticals, Inc.,	S-1,	2000,	2000,	"Xcellerate Therapy
+Therapy ,"	leukemia,			27,	20,	,		
+wvcu20000001130166,	Cyclacel Pharmaceuticals, Inc.,	S-1,	2000,	2000,	"Xcellerate Therapy
+Therapy ,"	non-Hodgkin's lymphoma,			27,	20,	,		
+wvcu20000001130166,	Cyclacel Pharmaceuticals, Inc.,	S-1,	2000,	2000,	"Xcellerate Therapy
+Therapy ,"	Multiple Myeloma,			27,	20,	,		
+wvcu20000001130166,	Cyclacel Pharmaceuticals, Inc.,	S-1,	2000,	2000,	"Xcellerate Therapy
+Therapy ,"	Hodgkin's disease.,			27,	20,	,		
+wvcu20000001130166,	Cyclacel Pharmaceuticals, Inc.,	S-1,	2000,	2000,	"Xcellerate Therapy
+Therapy ,"	HIV  ,			23,	,	,		
+wvcu20000001130166,	Cyclacel Pharmaceuticals, Inc.,	S-1,	2000,	2000,	"Xcellerate Therapy
+Therapy ,"	Hepatitis C,			23,	,	,		
+wvcu20000001130166,	Cyclacel Pharmaceuticals, Inc.,	S-1,	2000,	2000,	"Xcellerate Therapy
+Therapy ,"	tuberculosis,			23,	,	,		
+wvcu20000001029142,	DYNAVAX TECHNOLOGIES CORP,	S-1,	2000,	2000,	AIC,	Seasonal Allergy,			5,	,	,		
+wvcu20000001029142,	DYNAVAX TECHNOLOGIES CORP,	S-1,	2000,	2000,	 Lol p 1,	Grass Allergy,			5,	,	,		
+wvcu20000001029142,	DYNAVAX TECHNOLOGIES CORP,	S-1,	2000,	2000,	ISS linked to peanut Allergy,	Peanut Allergy,			5,	,	,		
+wvcu20000001029142,	DYNAVAX TECHNOLOGIES CORP,	S-1,	2000,	2000,	ISS linked or combined with,	 Hepatitis B,			23,	,	,		
+wvcu20000001029142,	DYNAVAX TECHNOLOGIES CORP,	S-1,	2000,	2000,	ISS linked or combined with HIV antigens,	AIDS Prevention and Therapy,			23,	,	,		
+wvcu20000001029142,	DYNAVAX TECHNOLOGIES CORP,	S-1,	2000,	2000,	ISS alone in various  formulations ,	 Idiopathic Pulmonary,			5,	,	,		
+wvcu20000001029142,	DYNAVAX TECHNOLOGIES CORP,	S-1,	2000,	2000,	TZP I-153 ,	Rheumatoid Arthritis ,			5,	20,	,		
+wvcu20010001115143,	ACUSPHERE INC,	S-1,	2001,	2001,	 AI-700,	myocardial perfusion,			21,	60,	,		
+wvcu20010001115143,	ACUSPHERE INC,	S-1,	2001,	2001,	AI-850 ,	Cancer,			22,	,	,		
+wvcu20010001115143,	ACUSPHERE INC,	S-1,	2001,	2001,	 Pulmonary Drug Delivery System,	Asthma,			5,	29,	,		
+wvcu20010001014455,	AGRAQUEST INC,	S-1,	2001,	2001,	Serenade,	high value specialty crops,			,	,	,		
+wvcu20010001014455,	AGRAQUEST INC,	S-1,	2001,	2001,	Sonata,	high value specialty crops,			70,	,	,		
+wvcu20010001014455,	AGRAQUEST INC,	S-1,	2001,	2001,	Virtuoso,	high value specialty crops,			,	,	,		
+wvcu20010001014455,	AGRAQUEST INC,	S-1,	2001,	2001,	Vivace,	high value specialty crops,			,	,	,		
+wvcu20010001088856,	CORCEPT THERAPEUTICS INC,	S-1,	2001,	2001,	C-1073,	psychotic major depression,			40,	,	,		
+wvcu20010001115616,	PROTARGA INC,	S-1,	2001,	2001,	 Taxoprexin®,	Breast cancer,			22,	,	,		
+wvcu20010001115616,	PROTARGA INC,	S-1,	2001,	2001,	 Taxoprexin®,	Colorectal cancer,			22,	,	,		
+wvcu20010001115616,	PROTARGA INC,	S-1,	2001,	2001,	 Taxoprexin®,	Stomach cancer,			22,	26,	,		
+wvcu20010001115616,	PROTARGA INC,	S-1,	2001,	2001,	 Taxoprexin®,	Hormone-refractory prostate cancer,			22,	,	,		
+wvcu20010001115616,	PROTARGA INC,	S-1,	2001,	2001,	 Taxoprexin®,	Melanoma,			22,	,	,		
+wvcu20010001115616,	PROTARGA INC,	S-1,	2001,	2001,	 Taxoprexin®,	Non-small cell lung cancer,			22,	,	,		
+wvcu20010001115616,	PROTARGA INC,	S-1,	2001,	2001,	 Taxoprexin®,	Pancreatic cancer,			22,	,	,		
+wvcu20010001115616,	PROTARGA INC,	S-1,	2001,	2001,	 Taxoprexin®,	Kidney cancer,			22,	,	,		
+wvcu20010001115616,	PROTARGA INC,	S-1,	2001,	2001,	P-232,	Various cancers,			22,	,	,		
+wvcu20010001115616,	PROTARGA INC,	S-1,	2001,	2001,	P-274,	Various cancers,			22,	,	,		
+wvcu20010001115616,	PROTARGA INC,	S-1,	2001,	2001,	P-309,	Various cancers,			22,	,	,		
+wvcu20010001115616,	PROTARGA INC,	S-1,	2001,	2001,	Clozaprexin™,	Schizophrenia,			40,	,	,		
+wvcu20020001164722,	ADERIS PHARMACEUTICALS INC,	S-1,	2002,	2002,	Rotigotine-CDS,	Parkinson's disease,			40,	,	,		
+wvcu20020001164722,	ADERIS PHARMACEUTICALS INC,	S-1,	2002,	2002,	Rotigotine-CDS,	Restless Legs Syndrome,,			40,	,	,		
+wvcu20020001164722,	ADERIS PHARMACEUTICALS INC,	S-1,	2002,	2002,	 MRE-470,	 diagnosis of coronary artery disease,			21,	60,	,		
+wvcu20020001164722,	ADERIS PHARMACEUTICALS INC,	S-1,	2002,	2002,	DTI-0009,	Atrial fibrillation,			21,	,	,		
+wvcu20020001164722,	ADERIS PHARMACEUTICALS INC,	S-1,	2002,	2002,	DTI-0017 ,	 congestive heart failure,			21,	,	,		
+wvcu20030001008848,	ACORDA THERAPEUTICS INC,	S-1,	2003,	2003,	Fampridine-SR,	SCI,			25,	40,	70,		
+wvcu20030001008848,	ACORDA THERAPEUTICS INC,	S-1,	2003,	2003,	Fampridine-SR,	MS,			25,	40,	70,		
+wvcu20030001008848,	ACORDA THERAPEUTICS INC,	S-1,	2003,	2003,	Valrocemide,	Epilepsy,			43,	,	,		
+wvcu20030001008848,	ACORDA THERAPEUTICS INC,	S-1,	2003,	2003,	Valrocemide,	Bipolar disorder,			43,	,	,		
+wvcu20030001008848,	ACORDA THERAPEUTICS INC,	S-1,	2003,	2003,	GGF-2,	MS,			40,	,	,		
+wvcu20030001008848,	ACORDA THERAPEUTICS INC,	S-1,	2003,	2003,	Remyelinating Antibodies,	MS,			40,	,	,		
+wvcu20030001008848,	ACORDA THERAPEUTICS INC,	S-1,	2003,	2003,	Chondroitinase,	SCI,			45,	,	,		
+wvcu20030001008848,	ACORDA THERAPEUTICS INC,	S-1,	2003,	2003,	Regenerative Antibodies,	SCI,			40,	,	,		
+wvcu20030001164722,	ADERIS PHARMACEUTICALS INC,	S-1,	2003,	2003,	Rotigotine-CDS,	Parkinson's disease,			40,	,	,		
+wvcu20030001164722,	ADERIS PHARMACEUTICALS INC,	S-1,	2003,	2003,	Rotigotine-CDS,	Restless Legs Syndrome,,			40,	,	,		
+wvcu20030001164722,	ADERIS PHARMACEUTICALS INC,	S-1,	2003,	2003,	Binodenoson     ,	 diagnosis of coronary artery disease,			21,	60,	,		
+wvcu20030001164722,	ADERIS PHARMACEUTICALS INC,	S-1,	2003,	2003,	Selodenoson  ,	Atrial fibrillation,			21,	,	,		
+wvcu20030001164722,	ADERIS PHARMACEUTICALS INC,	S-1,	2003,	2003,	MRE-0094  ,	 Diabetic foot ulcers,			5,	,	,		
+nvcs20040001131517,	ANESIVA, INC.,	S-1,	2004,	2004,	E2F Decoy,	Bypass Surgery and Bypass Graft Failure,			21,	,	,		
+nvcs20040001131517,	ANESIVA, INC.,	S-1,	2004,	2004,	E2F Decoy,	AV Graft Failure,			28,	,	,		
+nvcs20040001131517,	ANESIVA, INC.,	S-1,	2004,	2004,	NF-kB Decoy,	Inflammation,			5,	20,	,		
+nvcs20040001131517,	ANESIVA, INC.,	S-1,	2004,	2004,	Cancer Decoys,	Cancer,			22,	,	,		
+nvcs20040001131517,	ANESIVA, INC.,	424B,	2004,	2004,	E2F Decoy,	Bypass Surgery and Bypass Graft Failure,			21,	,	,		
+nvcs20040001131517,	ANESIVA, INC.,	424B,	2004,	2004,	E2F Decoy,	AV Graft Failure,			28,	,	,		
+nvcs20040001131517,	ANESIVA, INC.,	424B,	2004,	2004,	NF-kB Decoy,	Inflammation,			5,	20,	,		
+nvcs20040001131517,	ANESIVA, INC.,	424B,	2004,	2004,	Cancer Decoys,	Cancer,			22,	,	,		
+nvcs20040001131517,	ANESIVA, INC.,	10-K,	2004,	2004,	E2F Decoy,	Bypass Surgery and Bypass Graft Failure,			21,	,	,		
+nvcs20040001131517,	ANESIVA, INC.,	10-K,	2004,	2004,	E2F Decoy,	AV Graft Failure,			28,	,	,		
+nvcs20040001131517,	ANESIVA, INC.,	10-K,	2004,	2004,	NF-kB Decoy,	Inflammation,			5,	20,	,		
+nvcs20040001131517,	ANESIVA, INC.,	10-K,	2004,	2004,	Cancer Decoys,	Cancer,			22,	,	,		
+nvcs20040001131517,	ANESIVA, INC.,	10-K,	2004,	2005,	E2F Decoy,	Bypass Surgery and Bypass Graft Failure,			21,	,	,		
+nvcs20040001131517,	ANESIVA, INC.,	10-K,	2004,	2005,	E2F Decoy,	AV Graft Failure,			28,	,	,		
+nvcs20040001131517,	ANESIVA, INC.,	10-K,	2004,	2005,	NF-kB Decoy,	Atopic dermatitis,			5,	8,	20,		
+nvcs20040001131517,	ANESIVA, INC.,	10-K,	2004,	2005,	 HIF Decoy,	Lung Cancer,			22,	,	,		
+nvcs20040001131517,	ANESIVA, INC.,	10-K,	2004,	2005,	 HIF Decoy,	Pancreatic cancer,			22,	,	,		
+nvcs20040001131517,	ANESIVA, INC.,	10-K,	2004,	2005,	 HIF Decoy,	Colon,			22,	,	,		
+nvcs20040001131517,	ANESIVA, INC.,	10-K,	2004,	2006,	3268,	Pain associated with venipuncture and cannulation,			62,	9,	25,		
+nvcs20040001131517,	ANESIVA, INC.,	10-K,	2004,	2006,	4975,	Post-surgical, neuropathic and musculoskeletal pain,			62,	9,	25,	20	42
+nvcs20040001131517,	ANESIVA, INC.,	10-K,	2004,	2006,	Avrina (NF-KB Decoy),	Atopic dermatitis,			5,	8,	20,		
+nvcs20040001131517,	ANESIVA, INC.,	10-K,	2004,	2006,	1207,	Neuropathic pain,			62,	9,	42,		
+nvcs20040001131517,	ANESIVA, INC.,	10-K,	2004,	2007,	Zingo,	Pain associated with venipuncture and cannulation,			62,	9,	25,		
+nvcs20040001131517,	ANESIVA, INC.,	10-K,	2004,	2007,	4975,	Post-surgical, neuropathic and musculoskeletal pain,			62,	9,	25,	20	42
+nvcs20040001131517,	ANESIVA, INC.,	10-K,	2004,	2008,	Zingo,	Pain associated with venipuncture and cannulation,			62,	9,	25,		
+nvcs20040001131517,	ANESIVA, INC.,	10-K,	2004,	2008,	Adlea™,	Post-surgical, neuropathic and musculoskeletal pain,			62,	9,	25,	20	42
+
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	S-1,	2004,	2004,	Pulmonary Insulin,	Diabetes,			24,	,	,		28,november 12, 2003,phase 3,pulmonary insulin,nephrology
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	S-1,	2004,	2004,	Pulmonary HGH,	Growth Hormone Deficiency,			24,	,	,		24,october 4, 2000,phase 1,pulmonary hgh,metabolism_endocri
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2005,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2005,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2005,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2005,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2005,	Glycoproteins,	Various,			24,	,	,		22,november 3, 1999,phase 1,glycoproteins,cancer
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2005,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2005,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2005,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2005,	Glycoproteins,	Various,			24,	,	,		23,december 19, 2000,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2005,	Glycoproteins,	Various,			24,	,	,		28,november 3, 1999,phase 1,glycoproteins,nephrology
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2005,	Glycoproteins,	Various,			24,	,	,		5,november 2, 1999,phase 1,glycoproteins,allergy and immunology
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2005,	Glycoproteins,	Various,			24,	,	,		5,november 2, 1999,phase 1,glycoproteins,allergy and immunology
+wvcs20040001070494,	ACADIA PHARMACEUTICALS INC,	S-1,	2004,	2004,	ACP-103,	Phase II,	proprietary target-based and chemistry-based technologies,	40,	,	,	,	,	,	central nervous system disorders,	,	 Parkinson’s disease,	,	,40,0,phase 2,neuro
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2005,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2005,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2005,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2005,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2005,	Glycoproteins,	Various,			24,	,	,		22,november 3, 1999,phase 1,glycoproteins,cancer
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2005,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2005,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2005,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2005,	Glycoproteins,	Various,			24,	,	,		23,december 19, 2000,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2005,	Glycoproteins,	Various,			24,	,	,		28,november 3, 1999,phase 1,glycoproteins,nephrology
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2005,	Glycoproteins,	Various,			24,	,	,		5,november 2, 1999,phase 1,glycoproteins,allergy and immunology
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2005,	Glycoproteins,	Various,			24,	,	,		5,november 2, 1999,phase 1,glycoproteins,allergy and immunology
+wvcs20040001070494,	ACADIA PHARMACEUTICALS INC,	S-1,	2004,	2004,	ACP-103,	Phase II,	proprietary target-based and chemistry-based technologies,	40,	,	,	,	,	,	central nervous system disorders,	,	 Parkinson’s disease,	,	,40,0,phase 2,neuro
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		22,november 3, 1999,phase 1,glycoproteins,cancer
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,december 19, 2000,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		28,november 3, 1999,phase 1,glycoproteins,nephrology
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		5,november 2, 1999,phase 1,glycoproteins,allergy and immunology
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		22,november 3, 1999,phase 1,glycoproteins,cancer
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,december 19, 2000,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		28,november 3, 1999,phase 1,glycoproteins,nephrology
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		5,november 2, 1999,phase 1,glycoproteins,allergy and immunology
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		22,november 3, 1999,phase 1,glycoproteins,cancer
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,december 19, 2000,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		28,november 3, 1999,phase 1,glycoproteins,nephrology
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		5,november 2, 1999,phase 1,glycoproteins,allergy and immunology
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		22,november 3, 1999,phase 1,glycoproteins,cancer
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,december 19, 2000,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		28,november 3, 1999,phase 1,glycoproteins,nephrology
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		5,november 2, 1999,phase 1,glycoproteins,allergy and immunology
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		22,november 3, 1999,phase 1,glycoproteins,cancer
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,december 19, 2000,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		28,november 3, 1999,phase 1,glycoproteins,nephrology
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		5,november 2, 1999,phase 1,glycoproteins,allergy and immunology
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		22,november 3, 1999,phase 1,glycoproteins,cancer
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,november 2, 1999,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		23,december 19, 2000,phase 1,glycoproteins,infectious disease
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		28,november 3, 1999,phase 1,glycoproteins,nephrology
+wvcs20040001235010,	MOMENTA PHARMACEUTICALS INC,	10-K,	2004,	2006,	Glycoproteins,	Various,			24,	,	,		5,november 2, 1999,phase 1,glycoproteins,allergy and immunology
+wvcs20040001172480,	SANTARUS INC,	10-K,	2003,	2009,	Budesonide MMX®,	Ulcerative Colitis,			26,	,	,		29,october 27, 1999,phase 3,budesonide ,pulmonary
+wvcs20040001172480,	SANTARUS INC,	10-K,	2003,	2009,	Budesonide MMX®,	Ulcerative Colitis,			26,	,	,		29,june 2, 2000,phase 2,budesonide ,pulmonary
+wvcs20040001172480,	SANTARUS INC,	10-K,	2003,	2010,	Budesonide MMX®,	Ulcerative Colitis,			26,	,	,		29,october 27, 1999,phase 3,budesonide ,pulmonary
+wvcs20040001172480,	SANTARUS INC,	10-K,	2003,	2010,	Budesonide MMX®,	Ulcerative Colitis,			26,	,	,		29,june 2, 2000,phase 2,budesonide ,pulmonary
+wvcs20040001172480,	SANTARUS INC,	10-K,	2003,	2011,	Budesonide MMX®,	Ulcerative Colitis,			26,	,	,		29,october 27, 1999,phase 3,budesonide ,pulmonary
+wvcs20040001172480,	SANTARUS INC,	10-K,	2003,	2011,	Budesonide MMX®,	Ulcerative Colitis,			26,	,	,		29,june 2, 2000,phase 2,budesonide ,pulmonary
+wvcs20040001172480,	SANTARUS INC,	10-K,	2003,	2012,	Fenoglide® (fenofibrate) tablets,	Type 2 Diabetes,			24,	26,	,		24,october 13, 2000,phase 3,fenoglide(fenofibrate) ,metabolism_endocri
+wvcs20040001172480,	SANTARUS INC,	10-K,	2003,	2012,	Uceris™ (budesonide) tablets,	Ulcerative Colitis,			26,	,	,		30,february 24, 2000,phase 1,uceris (budesonide) ,genetic
+wvcs20010001060736,	SEATTLE GENETICS INC,	10-K,	2000,	2009,	Lintuzumab,	AML,			27,	,	,		22,november 1, 1999,phase 2,lintuzumab,cancer
+wvcs20010001060736,	SEATTLE GENETICS INC,	10-K,	2000,	2009,	Lintuzumab,	AML,			27,	,	,		27,november 1, 1999,phase 2,lintuzumab,hematology
+wvcs20010001060736,	SEATTLE GENETICS INC,	10-K,	2000,	2009,	Lintuzumab,	AML,			27,	,	,		27,november 1, 1999,phase 1,lintuzumab,hematology
+wvcs20010001060736,	SEATTLE GENETICS INC,	10-K,	2000,	2009,	Lintuzumab,	AML,			27,	,	,		30,november 1, 1999,phase 2,lintuzumab,genetic
+wvcs20010001060736,	SEATTLE GENETICS INC,	10-K,	2000,	2009,	Lintuzumab,	AML,			27,	,	,		27,august 3, 2000,phase 2,lintuzumab,hematology
+wvcs20010001060736,	SEATTLE GENETICS INC,	10-K,	2000,	2009,	Lintuzumab,	AML,			27,	,	,		27,july 5, 2000,phase 3,lintuzumab,hematology
+wvcs20040001262175,	TERCICA INC,	S-1,	2004,	2004,	rhIGF-1,	Severe Pediatric IGFD,			24,	,	,		40,november 3, 1999,phase 2,rhigf-1,neuro
+wvcs20040001262175,	TERCICA INC,	10-K,	2004,	2006,	Increlex,	Severe Pediatric IGFD,			24,	,	,		40,november 3, 1999,phase 2,increlex,neuro
+wvcs20040001080014,	THERAVANCE INC,	S-1,	2004,	2004,	 telavancin,	Bacterial Infections,			23,	,	,		23,may 30, 2003,phase 2,telavancin,infectious disease
+wvcs20040001080014,	THERAVANCE INC,	S-1,	2004,	2004,	 telavancin,	Bacterial Infections,			23,	,	,		23,february 10, 2004,phase 2,telavancin,infectious disease
+wvcs20040001080014,	THERAVANCE INC,	S-1,	2004,	2004,	 telavancin,	Bacterial Infections,			23,	,	,		23,june 9, 2003,phase 2,telavancin,infectious disease
+wvcs20040001080014,	THERAVANCE INC,	10-K,	2004,	2006,	 telavancin cSSSI ,	 skin and skin structure infections,			8,	23,	,		23,september 17, 2004,phase 3,telavancin csssi,infectious disease
+wvcs20040001080014,	THERAVANCE INC,	10-K,	2004,	2006,	 telavancin cSSSI ,	 skin and skin structure infections,			8,	23,	,		23,february 10, 2004,phase 2,telavancin csssi,infectious disease
+wvcs20040001080014,	THERAVANCE INC,	10-K,	2004,	2006,	 telavancin HAP,	 hospital-acquired pneumonia ,			23,	29,	,		23,may 30, 2003,phase 2,telavancin,infectious disease
+wvcs20040001080014,	THERAVANCE INC,	10-K,	2004,	2006,	 telavancin HAP,	 hospital-acquired pneumonia ,			23,	29,	,		23,june 9, 2003,phase 2,telavancin,infectious disease
+wvcs20040001080014,	THERAVANCE INC,	10-K,	2004,	2006,	 telavancin HAP,	 hospital-acquired pneumonia ,			23,	29,	,		23,february 10, 2004,phase 2,telavancin,infectious disease
+wvcs20040001080014,	THERAVANCE INC,	10-K,	2004,	2007,	 telavancin HAP,	 hospital-acquired pneumonia ,			23,	29,	,		23,may 30, 2003,phase 2,telavancin,infectious disease
+wvcs20040001080014,	THERAVANCE INC,	10-K,	2004,	2007,	 telavancin HAP,	 hospital-acquired pneumonia ,			23,	29,	,		23,june 9, 2003,phase 2,telavancin,infectious disease
+wvcs20040001080014,	THERAVANCE INC,	10-K,	2004,	2007,	 telavancin HAP,	 hospital-acquired pneumonia ,			23,	29,	,		23,february 10, 2004,phase 2,telavancin,infectious disease
+wvcs20040001080014,	THERAVANCE INC,	10-K,	2004,	2008,	 telavancin HAP,	 hospital-acquired pneumonia ,			23,	29,	,		23,may 30, 2003,phase 2,telavancin,infectious disease
+wvcs20040001080014,	THERAVANCE INC,	10-K,	2004,	2008,	 telavancin HAP,	 hospital-acquired pneumonia ,			23,	29,	,		23,june 9, 2003,phase 2,telavancin,infectious disease
+wvcs20040001080014,	THERAVANCE INC,	10-K,	2004,	2008,	 telavancin HAP,	 hospital-acquired pneumonia ,			23,	29,	,		23,february 10, 2004,phase 2,telavancin,infectious disease
+wvcs20040001080014,	THERAVANCE INC,	10-K,	2004,	2009,	 telavancin HAP,	 hospital-acquired pneumonia ,			23,	29,	,		23,may 30, 2003,phase 2,telavancin,infectious disease
+wvcs20040001080014,	THERAVANCE INC,	10-K,	2004,	2009,	 telavancin HAP,	 hospital-acquired pneumonia ,			23,	29,	,		23,june 9, 2003,phase 2,telavancin,infectious disease
+wvcs20040001080014,	THERAVANCE INC,	10-K,	2004,	2009,	 telavancin HAP,	 hospital-acquired pneumonia ,			23,	29,	,		23,february 10, 2004,phase 2,telavancin,infectious disease
+wvcs20040001080014,	THERAVANCE INC,	10-K,	2004,	2010,	telavancin NP ,	 skin and skin structure infections,			8,	23,	,		23,may 30, 2003,phase 2,telavancin ,infectious disease
+wvcs20040001080014,	THERAVANCE INC,	10-K,	2004,	2010,	telavancin NP ,	 skin and skin structure infections,			8,	23,	,		23,february 10, 2004,phase 2,telavancin ,infectious disease
+wvcs20040001080014,	THERAVANCE INC,	10-K,	2004,	2010,	telavancin NP ,	 skin and skin structure infections,			8,	23,	,		23,june 9, 2003,phase 2,telavancin ,infectious disease
+wvcs20040001080014,	THERAVANCE INC,	10-K,	2004,	2011,	telavancin NP ,	 skin and skin structure infections,			8,	23,	,		23,may 30, 2003,phase 2,telavancin ,infectious disease
+wvcs20040001080014,	THERAVANCE INC,	10-K,	2004,	2011,	telavancin NP ,	 skin and skin structure infections,			8,	23,	,		23,february 10, 2004,phase 2,telavancin ,infectious disease
+wvcs20040001080014,	THERAVANCE INC,	10-K,	2004,	2011,	telavancin NP ,	 skin and skin structure infections,			8,	23,	,		23,june 9, 2003,phase 2,telavancin ,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		29,april 13, 2000,0,cystic fibrosis ,pulmonary
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		29,april 15, 2000,phase 3,cystic fibrosis ,pulmonary
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		29,february 24, 2000,phase 2,cystic fibrosis ,pulmonary
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,october 18, 1999,phase 2,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,october 18, 1999,phase 1,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,july 5, 2000,0,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,february 24, 2000,phase 1,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,october 18, 1999,0,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,february 24, 2000,phase 3,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		29,september 11, 2000,0,cystic fibrosis ,pulmonary
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,october 18, 1999,0,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,november 3, 1999,0,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,september 11, 2000,phase 2,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,february 24, 2000,phase 1,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,october 18, 1999,0,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,february 24, 2000,0,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,october 18, 1999,phase 1,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,january 28, 2000,phase 1,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		23,october 18, 1999,0,cystic fibrosis ,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		29,april 13, 2000,0,cystic fibrosis ,pulmonary
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		29,april 15, 2000,phase 3,cystic fibrosis ,pulmonary
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		29,february 24, 2000,phase 2,cystic fibrosis ,pulmonary
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,october 18, 1999,phase 2,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,october 18, 1999,phase 1,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,july 5, 2000,0,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,february 24, 2000,phase 1,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,october 18, 1999,0,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,february 24, 2000,phase 3,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		29,september 11, 2000,0,cystic fibrosis ,pulmonary
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,october 18, 1999,0,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,november 3, 1999,0,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,september 11, 2000,phase 2,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,february 24, 2000,phase 1,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,october 18, 1999,0,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,february 24, 2000,0,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,october 18, 1999,phase 1,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,january 28, 2000,phase 1,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		23,october 18, 1999,0,cystic fibrosis ,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		29,april 13, 2000,0,cystic fibrosis ,pulmonary
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		29,april 15, 2000,phase 3,cystic fibrosis ,pulmonary
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		29,february 24, 2000,phase 2,cystic fibrosis ,pulmonary
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,october 18, 1999,phase 2,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,october 18, 1999,phase 1,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,july 5, 2000,0,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,february 24, 2000,phase 1,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,october 18, 1999,0,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,february 24, 2000,phase 3,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		29,september 11, 2000,0,cystic fibrosis ,pulmonary
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,october 18, 1999,0,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,november 3, 1999,0,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,september 11, 2000,phase 2,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,february 24, 2000,phase 1,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,october 18, 1999,0,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,february 24, 2000,0,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,october 18, 1999,phase 1,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		30,january 28, 2000,phase 1,cystic fibrosis ,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Cystic Fibrosis Screen,	cystic fibrosis,			30,	,	,		23,october 18, 1999,0,cystic fibrosis ,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		21,november 3, 1999,0,factor ii,cardiology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		27,february 24, 2000,phase 1,factor ii,hematology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		23,november 2, 1999,0,factor ii,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		23,november 2, 1999,phase 2,factor ii,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		40,november 2, 1999,phase 2,factor ii,neuro
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		23,november 2, 1999,0,factor ii,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		23,november 2, 1999,phase 1,factor ii,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		30,june 3, 2000,phase 1,factor ii,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		30,february 24, 2000,phase 2,factor ii,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		23,november 2, 1999,phase 2,factor ii,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		40,november 3, 1999,phase 2,factor ii,neuro
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		22,november 1, 1999,phase 2,factor ii,cancer
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		23,november 2, 1999,phase 1,factor ii,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		40,november 1, 1999,phase 2,factor ii,neuro
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		22,november 2, 1999,phase 1,factor ii,cancer
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		24,february 24, 2000,phase 2,factor ii,metabolism_endocri
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		21,november 3, 1999,0,factor ii,cardiology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		27,february 24, 2000,phase 1,factor ii,hematology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		23,november 2, 1999,0,factor ii,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		23,november 2, 1999,phase 2,factor ii,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		40,november 2, 1999,phase 2,factor ii,neuro
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		23,november 2, 1999,0,factor ii,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		23,november 2, 1999,phase 1,factor ii,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		30,june 3, 2000,phase 1,factor ii,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		30,february 24, 2000,phase 2,factor ii,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		23,november 2, 1999,phase 2,factor ii,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		40,november 3, 1999,phase 2,factor ii,neuro
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		22,november 1, 1999,phase 2,factor ii,cancer
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		23,november 2, 1999,phase 1,factor ii,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		40,november 1, 1999,phase 2,factor ii,neuro
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		22,november 2, 1999,phase 1,factor ii,cancer
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		24,february 24, 2000,phase 2,factor ii,metabolism_endocri
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		21,november 3, 1999,0,factor ii,cardiology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		27,february 24, 2000,phase 1,factor ii,hematology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		23,november 2, 1999,0,factor ii,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		23,november 2, 1999,phase 2,factor ii,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		40,november 2, 1999,phase 2,factor ii,neuro
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		23,november 2, 1999,0,factor ii,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		23,november 2, 1999,phase 1,factor ii,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		30,june 3, 2000,phase 1,factor ii,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		30,february 24, 2000,phase 2,factor ii,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		23,november 2, 1999,phase 2,factor ii,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		40,november 3, 1999,phase 2,factor ii,neuro
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		22,november 1, 1999,phase 2,factor ii,cancer
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		23,november 2, 1999,phase 1,factor ii,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		40,november 1, 1999,phase 2,factor ii,neuro
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		22,november 2, 1999,phase 1,factor ii,cancer
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor II,	coagulation,			30,	,	,		24,february 24, 2000,phase 2,factor ii,metabolism_endocri
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Factor VII,	coagulation,			30,	,	,		27,november 1, 1999,phase 2,factor vii,hematology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	ApoE,	cardiovascular disease,			21,	30,	,		21,may 25, 2000,0,apo,cardiology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	ApoE,	cardiovascular disease,			21,	30,	,		27,november 1, 1999,phase 3,apo,hematology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Gene Expression,	mutation or gene expression profiles,			30,	,	,		22,november 3, 1999,0,gene expression,cancer
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Gene Expression,	mutation or gene expression profiles,			30,	,	,		30,june 13, 2000,phase 2,gene expression,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Gene Expression,	mutation or gene expression profiles,			30,	,	,		30,november 3, 1999,phase 1,gene expression,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Gene Expression,	mutation or gene expression profiles,			30,	,	,		30,november 1, 1999,phase 2,gene expression,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Gene Expression,	mutation or gene expression profiles,			30,	,	,		28,december 22, 2000,phase 1,gene expression,nephrology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Gene Expression,	mutation or gene expression profiles,			30,	,	,		22,november 3, 1999,0,gene expression,cancer
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Gene Expression,	mutation or gene expression profiles,			30,	,	,		30,june 13, 2000,phase 2,gene expression,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Gene Expression,	mutation or gene expression profiles,			30,	,	,		30,november 3, 1999,phase 1,gene expression,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Gene Expression,	mutation or gene expression profiles,			30,	,	,		30,november 1, 1999,phase 2,gene expression,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2004,	Gene Expression,	mutation or gene expression profiles,			30,	,	,		28,december 22, 2000,phase 1,gene expression,nephrology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		23,may 25, 2000,0,hcv,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		27,march 2, 2000,0,hcv,hematology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		23,november 2, 1999,phase 1,hcv,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		27,december 19, 2000,0,hcv,hematology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		27,november 3, 1999,phase 3,hcv,hematology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		23,november 2, 1999,phase 2,hcv,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		23,september 27, 2000,0,hcv,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		23,november 3, 1999,phase 4,hcv,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		23,march 2, 2000,0,hcv,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		23,january 21, 2000,0,hcv,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		23,march 2, 2000,0,hcv,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		23,december 6, 2000,0,hcv,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		30,may 6, 2000,0,hcv,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		23,february 24, 2000,phase 3,hcv,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		23,may 25, 2000,0,hcv,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		27,november 3, 1999,0,hcv,hematology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		23,december 29, 2000,0,hcv,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		23,may 25, 2000,0,hcv,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		27,march 2, 2000,0,hcv,hematology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		23,november 2, 1999,phase 1,hcv,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		27,december 19, 2000,0,hcv,hematology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		27,november 3, 1999,phase 3,hcv,hematology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		23,november 2, 1999,phase 2,hcv,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		23,september 27, 2000,0,hcv,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		23,november 3, 1999,phase 4,hcv,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		23,march 2, 2000,0,hcv,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		23,january 21, 2000,0,hcv,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		23,march 2, 2000,0,hcv,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		23,december 6, 2000,0,hcv,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		30,may 6, 2000,0,hcv,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		23,february 24, 2000,phase 3,hcv,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		23,may 25, 2000,0,hcv,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		27,november 3, 1999,0,hcv,hematology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HCV,	Hepatitis C,			30,	,	,		23,december 29, 2000,0,hcv,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CFTR,	cystic fibrosis,			30,	,	,		30,january 28, 2000,phase 1,cftr,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CFTR,	cystic fibrosis,			30,	,	,		30,february 24, 2000,phase 1,cftr,genetic
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		21,december 29, 2000,phase 3,cyp450 2d6,cardiology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		22,september 20, 1999,phase 1,cyp450 2d6,cancer
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		25,november 2, 1999,phase 3,cyp450 2d6,critical care
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		70,november 2, 1999,phase 2,cyp450 2d6,obstetrics_gynecology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		40,november 2, 1999,phase 3,cyp450 2d6,neuro
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		40,november 2, 1999,phase 4,cyp450 2d6,neuro
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		21,october 27, 1999,phase 3,cyp450 2d6,cardiology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		21,october 27, 1999,phase 3,cyp450 2d6,cardiology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		40,august 9, 2000,phase 4,cyp450 2d6,neuro
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		21,october 27, 1999,phase 3,cyp450 2d6,cardiology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		22,june 2, 2000,phase 2,cyp450 2d6,cancer
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		40,november 3, 1999,phase 2,cyp450 2d6,neuro
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		21,october 27, 1999,phase 3,cyp450 2d6,cardiology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		21,october 27, 1999,phase 3,cyp450 2d6,cardiology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		70,september 14, 2000,phase 3,cyp450 2d6,obstetrics_gynecology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		40,november 2, 1999,phase 3,cyp450 2d6,neuro
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		40,october 18, 1999,0,cyp450 2d6,neuro
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		40,october 18, 1999,0,cyp450 2d6,neuro
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		40,september 11, 2000,phase 4,cyp450 2d6,neuro
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		21,december 29, 2000,phase 3,cyp450 2d6,cardiology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		22,september 20, 1999,phase 1,cyp450 2d6,cancer
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		25,november 2, 1999,phase 3,cyp450 2d6,critical care
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		70,november 2, 1999,phase 2,cyp450 2d6,obstetrics_gynecology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		40,november 2, 1999,phase 3,cyp450 2d6,neuro
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		40,november 2, 1999,phase 4,cyp450 2d6,neuro
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		21,october 27, 1999,phase 3,cyp450 2d6,cardiology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		21,october 27, 1999,phase 3,cyp450 2d6,cardiology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		40,august 9, 2000,phase 4,cyp450 2d6,neuro
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		21,october 27, 1999,phase 3,cyp450 2d6,cardiology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		22,june 2, 2000,phase 2,cyp450 2d6,cancer
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		40,november 3, 1999,phase 2,cyp450 2d6,neuro
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		21,october 27, 1999,phase 3,cyp450 2d6,cardiology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		21,october 27, 1999,phase 3,cyp450 2d6,cardiology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		70,september 14, 2000,phase 3,cyp450 2d6,obstetrics_gynecology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		40,november 2, 1999,phase 3,cyp450 2d6,neuro
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		40,october 18, 1999,0,cyp450 2d6,neuro
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		40,october 18, 1999,0,cyp450 2d6,neuro
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	CYP450 2D6,	Drug Reactions,			30,	,	,		40,september 11, 2000,phase 4,cyp450 2d6,neuro
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HPV,	human papilloma virus,			23,	30,	,		22,november 1, 1999,phase 2,hpv,cancer
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HPV,	human papilloma virus,			23,	30,	,		22,november 1, 1999,0,hpv,cancer
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HPV,	human papilloma virus,			23,	30,	,		22,november 2, 1999,phase 1,hpv,cancer
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HPV,	human papilloma virus,			23,	30,	,		70,november 1, 1999,phase 2,hpv,obstetrics_gynecology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HPV,	human papilloma virus,			23,	30,	,		23,november 3, 2000,0,hpv,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	HPV,	human papilloma virus,			23,	30,	,		27,july 5, 2000,phase 2,hpv,hematology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	ApoE,	cardiovascular disease,			21,	30,	,		21,may 25, 2000,0,apo,cardiology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	ApoE,	cardiovascular disease,			21,	30,	,		27,november 1, 1999,phase 3,apo,hematology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	Herpes Simplex Viruses 1 and 2,	Herpes,			23,	,	,		70,november 3, 1999,phase 3,herpes simplex viruses 1 and 2,obstetrics_gynecology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	Varicella-Zoster Virus,	Varicella-Zoster Virus,			23,	,	,		23,august 3, 2000,0,varicella-zoster virus,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	Varicella-Zoster Virus,	Varicella-Zoster Virus,			23,	,	,		23,december 29, 2000,phase 3,varicella-zoster virus,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	Varicella-Zoster Virus,	Varicella-Zoster Virus,			23,	,	,		23,november 2, 1999,phase 3,varicella-zoster virus,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	Varicella-Zoster Virus,	Varicella-Zoster Virus,			23,	,	,		23,november 2, 1999,phase 3,varicella-zoster virus,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	Varicella-Zoster Virus,	Varicella-Zoster Virus,			23,	,	,		23,november 2, 1999,phase 1,varicella-zoster virus,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	Varicella-Zoster Virus,	Varicella-Zoster Virus,			23,	,	,		23,january 17, 2000,phase 1,varicella-zoster virus,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	Varicella-Zoster Virus,	Varicella-Zoster Virus,			23,	,	,		23,november 2, 1999,phase 2,varicella-zoster virus,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	Varicella-Zoster Virus,	Varicella-Zoster Virus,			23,	,	,		28,march 28, 2000,phase 1,varicella-zoster virus,nephrology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	Varicella-Zoster Virus,	Varicella-Zoster Virus,			23,	,	,		21,october 18, 1999,phase 3,varicella-zoster virus,cardiology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	Varicella-Zoster Virus,	Varicella-Zoster Virus,			23,	,	,		23,august 3, 2000,0,varicella-zoster virus,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	Varicella-Zoster Virus,	Varicella-Zoster Virus,			23,	,	,		23,december 29, 2000,phase 3,varicella-zoster virus,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	Varicella-Zoster Virus,	Varicella-Zoster Virus,			23,	,	,		23,november 2, 1999,phase 3,varicella-zoster virus,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	Varicella-Zoster Virus,	Varicella-Zoster Virus,			23,	,	,		23,november 2, 1999,phase 3,varicella-zoster virus,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	Varicella-Zoster Virus,	Varicella-Zoster Virus,			23,	,	,		23,november 2, 1999,phase 1,varicella-zoster virus,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	Varicella-Zoster Virus,	Varicella-Zoster Virus,			23,	,	,		23,january 17, 2000,phase 1,varicella-zoster virus,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	Varicella-Zoster Virus,	Varicella-Zoster Virus,			23,	,	,		23,november 2, 1999,phase 2,varicella-zoster virus,infectious disease
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	Varicella-Zoster Virus,	Varicella-Zoster Virus,			23,	,	,		28,march 28, 2000,phase 1,varicella-zoster virus,nephrology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2005,	Varicella-Zoster Virus,	Varicella-Zoster Virus,			23,	,	,		21,october 18, 1999,phase 3,varicella-zoster virus,cardiology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2006,	ApoE,	cardiovascular disease,			21,	30,	,		21,may 25, 2000,0,apo,cardiology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2006,	ApoE,	cardiovascular disease,			21,	30,	,		27,november 1, 1999,phase 3,apo,hematology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2007,	ApoE,	cardiovascular disease,			21,	30,	,		21,may 25, 2000,0,apo,cardiology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2007,	ApoE,	cardiovascular disease,			21,	30,	,		27,november 1, 1999,phase 3,apo,hematology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2007,	Warfarin,	n/a,			30,	,	,		21,october 27, 1999,phase 3,warfarin,cardiology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2007,	Warfarin,	n/a,			30,	,	,		22,december 10, 1999,phase 3,warfarin,cancer
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2007,	Warfarin,	n/a,			30,	,	,		21,october 27, 1999,phase 3,warfarin,cardiology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2007,	Warfarin,	n/a,			30,	,	,		27,november 3, 1999,phase 1,warfarin,hematology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2007,	Warfarin,	n/a,			30,	,	,		21,may 25, 2000,phase 3,warfarin,cardiology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2007,	Warfarin,	n/a,			30,	,	,		21,october 27, 1999,phase 3,warfarin,cardiology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2007,	Warfarin,	n/a,			30,	,	,		21,october 27, 1999,phase 3,warfarin,cardiology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2007,	Warfarin,	n/a,			30,	,	,		21,december 29, 2000,phase 3,warfarin,cardiology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2008,	ApoE,	cardiovascular disease,			21,	30,	,		21,may 25, 2000,0,apo,cardiology
+wvcs20010001120438,	THIRD WAVE TECHNOLOGIES,	10-K,	2000,	2008,	ApoE,	cardiovascular disease,			21,	30,	,		27,november 1, 1999,phase 3,apo,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		30,may 28, 2002,phase 2,thalomid,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		30,may 29, 2002,phase 3,thalomid,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		22,july 11, 2001,phase 2,thalomid,cancer
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		5,december 30, 2003,phase 2,thalomid,allergy and immunology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		27,august 10, 2001,phase 2,thalomid,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		27,may 6, 2001,phase 2,thalomid,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		27,may 6, 2001,phase 2,thalomid,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		24,may 29, 2002,phase 1,thalomid,metabolism_endocri
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		27,september 11, 2000,phase 2,thalomid,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		40,october 11, 2001,phase 2,thalomid,neuro
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		30,april 4, 2003,phase 3,thalomid,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		40,june 6, 2002,phase 2,thalomid,neuro
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		40,october 11, 2001,phase 2,thalomid,neuro
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		30,may 6, 2001,phase 2,thalomid,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		22,february 19, 2000,phase 3,thalomid,cancer
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		22,july 5, 2000,phase 2,thalomid,cancer
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		27,november 12, 2002,phase 1,thalomid,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		24,november 4, 2003,phase 2,thalomid,metabolism_endocri
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		40,october 11, 2001,phase 2,thalomid,neuro
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		30,may 28, 2002,phase 2,thalomid,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		30,may 29, 2002,phase 3,thalomid,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		22,july 11, 2001,phase 2,thalomid,cancer
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		5,december 30, 2003,phase 2,thalomid,allergy and immunology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		27,august 10, 2001,phase 2,thalomid,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		27,may 6, 2001,phase 2,thalomid,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		27,may 6, 2001,phase 2,thalomid,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		24,may 29, 2002,phase 1,thalomid,metabolism_endocri
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		27,september 11, 2000,phase 2,thalomid,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		40,october 11, 2001,phase 2,thalomid,neuro
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		30,april 4, 2003,phase 3,thalomid,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		40,june 6, 2002,phase 2,thalomid,neuro
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		40,october 11, 2001,phase 2,thalomid,neuro
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		30,may 6, 2001,phase 2,thalomid,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		22,february 19, 2000,phase 3,thalomid,cancer
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		22,july 5, 2000,phase 2,thalomid,cancer
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		27,november 12, 2002,phase 1,thalomid,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		24,november 4, 2003,phase 2,thalomid,metabolism_endocri
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		40,october 11, 2001,phase 2,thalomid,neuro
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		30,may 28, 2002,phase 2,thalomid,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		30,may 29, 2002,phase 3,thalomid,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		22,july 11, 2001,phase 2,thalomid,cancer
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		5,december 30, 2003,phase 2,thalomid,allergy and immunology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		27,august 10, 2001,phase 2,thalomid,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		27,may 6, 2001,phase 2,thalomid,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		27,may 6, 2001,phase 2,thalomid,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		24,may 29, 2002,phase 1,thalomid,metabolism_endocri
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		27,september 11, 2000,phase 2,thalomid,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		40,october 11, 2001,phase 2,thalomid,neuro
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		30,april 4, 2003,phase 3,thalomid,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		40,june 6, 2002,phase 2,thalomid,neuro
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		40,october 11, 2001,phase 2,thalomid,neuro
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		30,may 6, 2001,phase 2,thalomid,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		22,february 19, 2000,phase 3,thalomid,cancer
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		22,july 5, 2000,phase 2,thalomid,cancer
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		27,november 12, 2002,phase 1,thalomid,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		24,november 4, 2003,phase 2,thalomid,metabolism_endocri
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		40,october 11, 2001,phase 2,thalomid,neuro
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Vidaza,	 myelodysplastic syndromes,,			27,	20,	,		27,october 31, 2003,phase 3,vidaza,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Vidaza,	 myelodysplastic syndromes,,			27,	20,	,		30,july 6, 2000,phase 2,vidaza,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Vidaza,	 myelodysplastic syndromes,,			27,	20,	,		27,may 2, 2000,phase 2,vidaza,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Vidaza,	 myelodysplastic syndromes,,			27,	20,	,		27,august 8, 2002,phase 3,vidaza,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Vidaza,	 myelodysplastic syndromes,,			27,	20,	,		27,may 2, 2000,phase 1,vidaza,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Vidaza,	 myelodysplastic syndromes,,			27,	20,	,		27,august 27, 2003,phase 2,vidaza,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Vidaza,	 myelodysplastic syndromes,,			27,	20,	,		27,march 7, 2000,phase 1,vidaza,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Vidaza,	 myelodysplastic syndromes,,			27,	20,	,		27,july 5, 2000,phase 2,vidaza,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Vidaza,	 myelodysplastic syndromes,,			27,	20,	,		24,december 10, 1999,phase 1,vidaza,metabolism_endocri
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Vidaza,	 myelodysplastic syndromes,,			27,	20,	,		30,december 6, 2000,phase 2,vidaza,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Vidaza,	 myelodysplastic syndromes,,			27,	20,	,		30,july 19, 2002,phase 2,vidaza,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Vidaza,	 myelodysplastic syndromes,,			27,	20,	,		30,july 19, 2002,phase 2,vidaza,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Vidaza,	 myelodysplastic syndromes,,			27,	20,	,		30,july 19, 2002,phase 2,vidaza,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Vidaza,	 myelodysplastic syndromes,,			27,	20,	,		27,november 12, 2002,phase 1,vidaza,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Vidaza,	 myelodysplastic syndromes,,			27,	20,	,		27,december 29, 2003,phase 1,vidaza,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Vidaza,	 myelodysplastic syndromes,,			27,	20,	,		27,november 1, 1999,phase 2,vidaza,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Vidaza,	 myelodysplastic syndromes,,			27,	20,	,		27,october 31, 2003,phase 3,vidaza,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Vidaza,	 myelodysplastic syndromes,,			27,	20,	,		30,july 6, 2000,phase 2,vidaza,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Vidaza,	 myelodysplastic syndromes,,			27,	20,	,		27,may 2, 2000,phase 2,vidaza,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Vidaza,	 myelodysplastic syndromes,,			27,	20,	,		27,august 8, 2002,phase 3,vidaza,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Vidaza,	 myelodysplastic syndromes,,			27,	20,	,		27,may 2, 2000,phase 1,vidaza,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Vidaza,	 myelodysplastic syndromes,,			27,	20,	,		27,august 27, 2003,phase 2,vidaza,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Vidaza,	 myelodysplastic syndromes,,			27,	20,	,		27,march 7, 2000,phase 1,vidaza,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Vidaza,	 myelodysplastic syndromes,,			27,	20,	,		27,july 5, 2000,phase 2,vidaza,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Vidaza,	 myelodysplastic syndromes,,			27,	20,	,		24,december 10, 1999,phase 1,vidaza,metabolism_endocri
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Vidaza,	 myelodysplastic syndromes,,			27,	20,	,		30,december 6, 2000,phase 2,vidaza,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Vidaza,	 myelodysplastic syndromes,,			27,	20,	,		30,july 19, 2002,phase 2,vidaza,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Vidaza,	 myelodysplastic syndromes,,			27,	20,	,		30,july 19, 2002,phase 2,vidaza,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Vidaza,	 myelodysplastic syndromes,,			27,	20,	,		30,july 19, 2002,phase 2,vidaza,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Vidaza,	 myelodysplastic syndromes,,			27,	20,	,		27,november 12, 2002,phase 1,vidaza,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Vidaza,	 myelodysplastic syndromes,,			27,	20,	,		27,december 29, 2003,phase 1,vidaza,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Vidaza,	 myelodysplastic syndromes,,			27,	20,	,		27,november 1, 1999,phase 2,vidaza,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	Refludan®,	heparin-induced thrombocytopenia, ,			21,	27,	,		29,november 1, 1999,phase 1,refludan,pulmonary
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		30,may 28, 2002,phase 2,thalomid,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		30,may 29, 2002,phase 3,thalomid,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		22,july 11, 2001,phase 2,thalomid,cancer
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		5,december 30, 2003,phase 2,thalomid,allergy and immunology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		27,august 10, 2001,phase 2,thalomid,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		27,may 6, 2001,phase 2,thalomid,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		27,may 6, 2001,phase 2,thalomid,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		24,may 29, 2002,phase 1,thalomid,metabolism_endocri
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		27,september 11, 2000,phase 2,thalomid,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		40,october 11, 2001,phase 2,thalomid,neuro
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		30,april 4, 2003,phase 3,thalomid,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		40,june 6, 2002,phase 2,thalomid,neuro
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		40,october 11, 2001,phase 2,thalomid,neuro
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		30,may 6, 2001,phase 2,thalomid,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		22,february 19, 2000,phase 3,thalomid,cancer
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		22,july 5, 2000,phase 2,thalomid,cancer
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		27,november 12, 2002,phase 1,thalomid,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		24,november 4, 2003,phase 2,thalomid,metabolism_endocri
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		40,october 11, 2001,phase 2,thalomid,neuro
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		30,may 28, 2002,phase 2,thalomid,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		30,may 29, 2002,phase 3,thalomid,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		22,july 11, 2001,phase 2,thalomid,cancer
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		5,december 30, 2003,phase 2,thalomid,allergy and immunology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		27,august 10, 2001,phase 2,thalomid,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		27,may 6, 2001,phase 2,thalomid,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		27,may 6, 2001,phase 2,thalomid,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		24,may 29, 2002,phase 1,thalomid,metabolism_endocri
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		27,september 11, 2000,phase 2,thalomid,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		40,october 11, 2001,phase 2,thalomid,neuro
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		30,april 4, 2003,phase 3,thalomid,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		40,june 6, 2002,phase 2,thalomid,neuro
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		40,october 11, 2001,phase 2,thalomid,neuro
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		30,may 6, 2001,phase 2,thalomid,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		22,february 19, 2000,phase 3,thalomid,cancer
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		22,july 5, 2000,phase 2,thalomid,cancer
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		27,november 12, 2002,phase 1,thalomid,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		24,november 4, 2003,phase 2,thalomid,metabolism_endocri
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		40,october 11, 2001,phase 2,thalomid,neuro
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		30,may 28, 2002,phase 2,thalomid,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		30,may 29, 2002,phase 3,thalomid,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		22,july 11, 2001,phase 2,thalomid,cancer
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		5,december 30, 2003,phase 2,thalomid,allergy and immunology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		27,august 10, 2001,phase 2,thalomid,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		27,may 6, 2001,phase 2,thalomid,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		27,may 6, 2001,phase 2,thalomid,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		24,may 29, 2002,phase 1,thalomid,metabolism_endocri
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		27,september 11, 2000,phase 2,thalomid,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		40,october 11, 2001,phase 2,thalomid,neuro
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		30,april 4, 2003,phase 3,thalomid,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		40,june 6, 2002,phase 2,thalomid,neuro
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		40,october 11, 2001,phase 2,thalomid,neuro
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		30,may 6, 2001,phase 2,thalomid,genetic
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		22,february 19, 2000,phase 3,thalomid,cancer
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		22,july 5, 2000,phase 2,thalomid,cancer
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		27,november 12, 2002,phase 1,thalomid,hematology
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		24,november 4, 2003,phase 2,thalomid,metabolism_endocri
+wvcs20030001203866,	PHARMION CORP,	S-1,	2003,	2003,	 Thalomid® ,	multiple myeloma,			22,	20,	,		40,october 11, 2001,phase 2,thalomid,neuro
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2005,	AMPK,	Diabetes,			24,	,	,		23,june 7, 2002,phase 2,amp,infectious disease
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2005,	AMPK,	Diabetes,			24,	,	,		27,november 3, 1999,phase 3,amp,hematology
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2005,	AMPK,	Diabetes,			24,	,	,		22,july 11, 2001,phase 1,amp,cancer
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2005,	AMPK,	Diabetes,			24,	,	,		30,march 7, 2000,phase 2,amp,genetic
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2005,	AMPK,	Diabetes,			24,	,	,		24,november 3, 1999,0,amp,metabolism_endocri
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2005,	AMPK,	Diabetes,			24,	,	,		23,june 7, 2002,phase 2,amp,infectious disease
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2005,	AMPK,	Diabetes,			24,	,	,		27,november 3, 1999,phase 3,amp,hematology
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2005,	AMPK,	Diabetes,			24,	,	,		22,july 11, 2001,phase 1,amp,cancer
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2005,	AMPK,	Diabetes,			24,	,	,		30,march 7, 2000,phase 2,amp,genetic
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2005,	AMPK,	Diabetes,			24,	,	,		24,november 3, 1999,0,amp,metabolism_endocri
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2006,	AMPK,	Diabetes,			24,	,	,		23,june 7, 2002,phase 2,amp,infectious disease
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2006,	AMPK,	Diabetes,			24,	,	,		27,november 3, 1999,phase 3,amp,hematology
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2006,	AMPK,	Diabetes,			24,	,	,		22,july 11, 2001,phase 1,amp,cancer
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2006,	AMPK,	Diabetes,			24,	,	,		30,march 7, 2000,phase 2,amp,genetic
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2006,	AMPK,	Diabetes,			24,	,	,		24,november 3, 1999,0,amp,metabolism_endocri
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2006,	AMPK,	Diabetes,			24,	,	,		23,june 7, 2002,phase 2,amp,infectious disease
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2006,	AMPK,	Diabetes,			24,	,	,		27,november 3, 1999,phase 3,amp,hematology
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2006,	AMPK,	Diabetes,			24,	,	,		22,july 11, 2001,phase 1,amp,cancer
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2006,	AMPK,	Diabetes,			24,	,	,		30,march 7, 2000,phase 2,amp,genetic
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2006,	AMPK,	Diabetes,			24,	,	,		24,november 3, 1999,0,amp,metabolism_endocri
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2007,	AMPK,	Diabetes,			24,	,	,		23,june 7, 2002,phase 2,amp,infectious disease
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2007,	AMPK,	Diabetes,			24,	,	,		27,november 3, 1999,phase 3,amp,hematology
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2007,	AMPK,	Diabetes,			24,	,	,		22,july 11, 2001,phase 1,amp,cancer
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2007,	AMPK,	Diabetes,			24,	,	,		30,march 7, 2000,phase 2,amp,genetic
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2007,	AMPK,	Diabetes,			24,	,	,		24,november 3, 1999,0,amp,metabolism_endocri
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2007,	AMPK,	Diabetes,			24,	,	,		23,june 7, 2002,phase 2,amp,infectious disease
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2007,	AMPK,	Diabetes,			24,	,	,		27,november 3, 1999,phase 3,amp,hematology
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2007,	AMPK,	Diabetes,			24,	,	,		22,july 11, 2001,phase 1,amp,cancer
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2007,	AMPK,	Diabetes,			24,	,	,		30,march 7, 2000,phase 2,amp,genetic
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2007,	AMPK,	Diabetes,			24,	,	,		24,november 3, 1999,0,amp,metabolism_endocri
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2008,	AMPK,	Diabetes,			24,	,	,		23,june 7, 2002,phase 2,amp,infectious disease
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2008,	AMPK,	Diabetes,			24,	,	,		27,november 3, 1999,phase 3,amp,hematology
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2008,	AMPK,	Diabetes,			24,	,	,		22,july 11, 2001,phase 1,amp,cancer
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2008,	AMPK,	Diabetes,			24,	,	,		30,march 7, 2000,phase 2,amp,genetic
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2008,	AMPK,	Diabetes,			24,	,	,		24,november 3, 1999,0,amp,metabolism_endocri
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2008,	AMPK,	Diabetes,			24,	,	,		23,june 7, 2002,phase 2,amp,infectious disease
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2008,	AMPK,	Diabetes,			24,	,	,		27,november 3, 1999,phase 3,amp,hematology
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2008,	AMPK,	Diabetes,			24,	,	,		22,july 11, 2001,phase 1,amp,cancer
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2008,	AMPK,	Diabetes,			24,	,	,		30,march 7, 2000,phase 2,amp,genetic
+wvcs20040001053221,	METABASIS THERAPEUTICS INC,	10-K,	2004,	2008,	AMPK,	Diabetes,			24,	,	,		24,november 3, 1999,0,amp,metabolism_endocri
